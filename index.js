@@ -1,3 +1,5 @@
+document.getElementById("h1").style.color="blue";
+
 function processThis(message, callback) {
     console.log(message);
 
